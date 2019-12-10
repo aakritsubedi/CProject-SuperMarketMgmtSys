@@ -11,14 +11,14 @@ Supermarket billing and data management System is a small program designed by us
 </ol>
 <h4>Methodology</h4>
 <b>Flowchart</b><br/>
-<img src='6FlowChart.png'/>
+<img src='6FlowChart.PNG'/>
 <hr/>
 <h4>Output</h4>
-<img src="1Login.png" />
-<img src="2SignUp.png" />
-<img src="3Menu.png" />
-<img src="4ProductList.png" />
-<img src="5Billing.png" />
+<img src="1Login.PNG" />
+<img src="2SignUp.PNG" />
+<img src="3Menu.PNG" />
+<img src="4ProductList.PNG" />
+<img src="5Billing.PNG" />
 <hr/>
 <h4>Installation</h4>
 <ul>
